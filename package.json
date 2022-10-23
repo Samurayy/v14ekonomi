@@ -1,13 +1,13 @@
 {
   "name": "raven",
   "version": "4.0.0",
-  "description": "Raven sunucusu için yapılan ekonomi botu.",
+  "description": "Zesty ekonomi botu.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Ly3ssia",
+  "author": "ZestyCode",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^1.0.0",
