@@ -40,8 +40,7 @@ client.login(config.token || process.env.TOKEN)
 
 const modal = new ModalBuilder()
 .setCustomId('form')
-.setTitle('Zesty
-	  - Kredi Kart!')
+.setTitle('Zesty  - Kredi Kart!')
   const a1 = new TextInputBuilder()
   .setCustomId('tur')
   .setLabel('Kredi Kart Türü')
